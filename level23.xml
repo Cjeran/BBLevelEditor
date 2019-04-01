@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<level>
+  <brick>
+    <x>37</x>
+    <y>16</y>
+    <hp>1</hp>
+    <colour>DarkRed</colour>
+  </brick>
+  <brick>
+    <x></x>
+    <y></y>
+    <hp>1</hp>
+    <colour>DarkRed</colour>
+  </brick>
+</level>
